@@ -1,4 +1,4 @@
-# Project-Resume-Classification
+# Project-Resume-Document-Classification
 ### Problem Statement & Business Objectives: The document classification solution should significantly reduce the manual human effort in the HRM. It should achieve a higher level of accuracy and automation with minimal human intervention.
 
 ![228459849-80366524-ea13-43df-ab89-672f183f00a5](https://github.com/user-attachments/assets/34ff22ac-a8e9-490b-9181-38e1c6f0d24c)
